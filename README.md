@@ -1,2 +1,2 @@
 # Python-for-beginner
-"Discover our Python Learning Repository on GitHub, your go-to resource for mastering the language. From beginners to advanced learners, find tutorials, exercises, and projects to enhance your Python skills. Start coding with confidence today!"
+"A repository dedicated to my journey of learning Python, where I document my progress, experiments, and projects as I delve into the world of programming with Python. From basic syntax to advanced concepts, follow along as I navigate through tutorials, exercises, and personal projects, all shared openly on GitHub."
